@@ -6,15 +6,6 @@ All credit for the mod itself goes to the original author and team. This reposit
 
 > *"Built on ballistic firepower, backed by carrier groups and combined operations - we're here to carve out a stretch of sea in this sector where we can slack off (and maybe do a little fishing)!"*
 
-## Download
-
-Get the latest version from the **[Releases](https://github.com/MrPossible001/BlueSeaFisher-Eng/releases)** page.
-
-| | |
-|---|---|
-| Mod version | 1.3.1 |
-| Game version | Starsector 0.98a |
-
 ## About the mod
 
 Blue Sea Fishery was once a quiet fishing colony that grew rich on Gate trade. When the Gates went dark, it was cut off from the rest of the Sector, survived on its own oceans, and quietly sat out both AI Wars. Now it is starting to draw the Persean Sector's attention - with a navy of fish, crabs, whales and very large guns.
